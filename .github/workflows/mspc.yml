@@ -5,8 +5,8 @@ on:
 
 jobs:
   run-mspc:
-    # runs-on: ubuntu-22.04
-    runs-on: ubuntu-latest #(optional)
+    runs-on: ubuntu-22.04
+    #runs-on: ubuntu-latest (optional)
     timeout-minutes: 500 #change to 60 later - 1 hour
 
     steps:
@@ -16,7 +16,7 @@ jobs:
       - name: ⚙️ Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '20'
+          node-version: '22'
 
       # 🟢 Cache node_modules
       - name: Cache Node.js dependencies
