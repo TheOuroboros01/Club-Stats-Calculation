@@ -25,7 +25,7 @@ module.exports = async function runStatsExtractor(page) {
     "https://v3.g.ladypopular.com/guilds.php?id=2394",
     "https://v3.g.ladypopular.com/guilds.php?id=1083",
     "https://v3.g.ladypopular.com/guilds.php?id=4996",
-    "https://v3.g.ladypopular.com/guilds.php?id=2712",
+    /* "https://v3.g.ladypopular.com/guilds.php?id=2712",
     "https://v3.g.ladypopular.com/guilds.php?id=83",
     "https://v3.g.ladypopular.com/guilds.php?id=19",
     "https://v3.g.ladypopular.com/guilds.php?id=872",
@@ -43,7 +43,7 @@ module.exports = async function runStatsExtractor(page) {
     "https://v3.g.ladypopular.com/guilds.php?id=45",
     "https://v3.g.ladypopular.com/guilds.php?id=5095",
     "https://v3.g.ladypopular.com/guilds.php?id=994",
-    "https://v3.g.ladypopular.com/guilds.php?id=1581",
+    "https://v3.g.ladypopular.com/guilds.php?id=1581", */
     // add up to 7 (or more)
   ];
 
