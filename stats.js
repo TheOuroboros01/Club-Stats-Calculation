@@ -12,7 +12,7 @@ module.exports = async function runStatsExtractor(page) {
   // ✅ ENTER ALL CLUB URLs HERE
   const clubUrls = [
     //"https://v3.g.ladypopular.com/guilds.php?id=1221", //Loyalty
-    "https://v3.g.ladypopular.com/guilds.php?id=1555",
+    "https://v3.g.ladypopular.com/guilds.php?id=1083",
     // add up to 7 (or more)
   ];
 
